@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Azure Resource Explorer Script
 
 Este script en Python permite explorar recursos de Azure desde línea de comandos de forma interactiva.
@@ -29,3 +30,7 @@ Este script en Python permite explorar recursos de Azure desde línea de comando
 ```bash
 python connect_aks.py
 Importante: si ejecutas en Windows, revisa la ruta de az.cmd en la variable AZ_PATH al inicio del script.
+=======
+# azure-resource-explorer
+Este script en Python permite explorar recursos de Azure desde línea de comandos de forma interactiva.
+>>>>>>> 44768b0b761693adfdb269ae87d115dfcf649573
